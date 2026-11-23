@@ -1,0 +1,4 @@
+backups/
+backup_kedaikopi.sql
+env/
+*.bak
